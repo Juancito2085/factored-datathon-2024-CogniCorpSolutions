@@ -1,6 +1,6 @@
 # Factored Datathon 2024 - CogniCorp Solutions
 
-# THIS IS A SKETCH OF THE PAGE
+# THIS IS A SKETCH OF THE REPO
 
 ## Tasks
 
